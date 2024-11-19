@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "PhonKI"
+  navbar:
+    left:
+      - text: "Home"
+        href: notes/index.qmd
+      - text: "Ressourcen"
+        href: notes/resources.qmd
+      - text: "Meeting Berichte"
+        href: notes/reports.qmd
+
+format:
+  html:
+    css: styles.css
+    theme:
+      light: cosmo    # Light theme
+      dark: slate     # Dark theme
+    toc: true
+    toc-depth: 3
+    code-fold: true
+    code-overflow: wrap
+    include-after-body: footer.html
+
+execute:
+  echo: false
+  warning: false
+  message: false

@@ -1,0 +1,39 @@
+# Ressourcen
+
+## LMMs
+### LMMs der HU Berlin
+Der CMS der HU stellt LLMs zur Verfügung. Zugänge und Informationen dazu finden sich unter diesem [Link](https://www.cms.hu-berlin.de/de/aktuelles-und-veranstaltungen/grosse-sprachmodelle-llms-an-der-hu-berlin).
+
+### ASR des BAS WebSevices (LMU München)
+Der ASR-Service kann, nach Anmeldung, [hier](https://clarin.phonetik.uni-muenchen.de/BASWebServices/interface/ASR) genutzt werden.
+
+- viele Sprachen
+- Textgrid output ist möglich
+- unterschiedliche ASR databases zur Auswahl (z. B. Frauenhofer)
+
+
+## Einführungen zu LLMs und ASR
+
+### Videos zu neuronalen Netzen von 3Blue1Brown
+{{< video https://www.youtube.com/watch?v=aircAruvnKk >}}
+
+
+## Interessante KI-Tools
+
+### NotebookLM
+NotebookLM ist ein KI-gestütztes Notiztool von Google, [hier](https://notebooklm.google.com) erreichar.
+Anwendungen:
+
+- Zusammenfassungen von hochgeladenen Dokumenten
+- Generiert FAQs
+- Audio-Feature: Erstellt Podcasts aus Notizen und Dokumenten. (z. B. publizierte Studien - kann ganz lustig sein)
+- kann auch Zitate erstellen
+
+Achtung: Aus datenschutsrechtlichen Gründen sollte man nur bereits publizierte Daten/Artikel hochladen. Das Tool ist auch fehleranfällig.
+
+Beispiel: Podcast zur Granitus-Studie (Wesolek et al. 2024) 
+
+<audio controls>
+  <source src="../media/gram_tinnitus_podcast.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>

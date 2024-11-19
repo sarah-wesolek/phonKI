@@ -1,0 +1,33 @@
+# Übersicht
+
+## Wer sind wir?
+Wir sind eine Arbeitsgruppe von Phonetikern, die sich für die Anwendung von Künstlicher Intelligenz (KI) in der Forschung begeistern.
+
+[Option: Namen und Links der Mitglieder ergänzen?]
+
+## Wann/Wo treffen wir uns?
+- alle 3 Wochen, jeweils für 1-2 Stunden, je nach Vereinbarung: montags zwischen 10:00 und 13:00 Uhr oder mittwochs zwischen 12 und 14 Uhr
+- hybrid: Zoom und Institut für Deutsche Sprache und Linguistik der HU, DOR24
+
+## Ziele
+
+### Praktische Orientierung
+Wir diskutieren und erproben Anwendungsmöglichkeiten von Large Language Models (LLMs) für unsere Forschung. Ein Fokus liegt auf dem Austausch über potenzielle Hilfsmittel, die auf KI-gestützten Methoden, vor allem auf der automatischen Sprachverarbeitung (ASR) basieren. Unsere Zusammenstellung praktischer Tools finden sich hier.
+
+#### Themenbeispiele: 
+- Wie kann automatische Sprachverarbeitung (ASR) zur Annotation von Korpora genutzt werden?
+- Wie lassen sich Korpusdokumentationen und Annotationsrichtlinien mithilfe von LLMs erstellen?
+- Welche Tools sind besonders nützlich für unsere Forschungsfragen?
+- Welche datenschutzrechtlichen Vorgaben müssen wir beachten?
+- Wie effektiv ist WHISPER bei der Annotation unterschiedlicher Datensätze (z. B. Füllpartikel, soziale/regionale Sprachvariationen, genderneutrales Suffix)?
+- Wie kann (phonetische) Sprachvariation als Trainingsmaterial für LLMs genutzt werden?
+
+### Lesekreis & Forschung
+
+Ein weiteres Ziel unserer Arbeitsgruppe ist es, linguistische Fragestellungen rund um LLMs und ASR-Modelle zu erforschen. Besonders interessiert uns die Frage, wie inklusiv aktuelle Modelle sind. Darüber hinaus möchten wir uns grundlegendes Wissen über ASR aneignen. Links und Notizen zur Literatur findet sich hier 
+
+#### Themenbeispiele:
+- Wie gehen die Sprachmodelle mit Sprecher:innenvariation um (z. B. Gender, Alter, L2-Akzente, Soziolekte, multilinguale Sprachdaten)?
+- Wie können Sprachmodelle gezielt auf Diversität hin optimiert werden?
+
+

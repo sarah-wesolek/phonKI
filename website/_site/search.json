@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "notes/resources.html",
+    "href": "notes/resources.html",
+    "title": "Ressourcen",
+    "section": "",
+    "text": "Der CMS der HU stellt LLMs zur Verfügung. Zugänge und Informationen dazu finden sich unter diesem Link.\n\n\n\nDer ASR-Service kann, nach Anmeldung, hier genutzt werden.\n\nviele Sprachen\nTextgrid output ist möglich\nunterschiedliche ASR databases zur Auswahl (z. B. Frauenhofer)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNotebookLM ist ein KI-gestütztes Notiztool von Google, hier erreichar. Anwendungen:\n\nZusammenfassungen von hochgeladenen Dokumenten\nGeneriert FAQs\nAudio-Feature: Erstellt Podcasts aus Notizen und Dokumenten. (z. B. publizierte Studien - kann ganz lustig sein)\nkann auch Zitate erstellen\n\nAchtung: Aus datenschutsrechtlichen Gründen sollte man nur bereits publizierte Daten/Artikel hochladen. Das Tool ist auch fehleranfällig.\nBeispiel: Podcast zur Granitus-Studie (Wesolek et al. 2024)\n\n\nYour browser does not support the audio element."
+  },
+  {
+    "objectID": "notes/resources.html#lmms",
+    "href": "notes/resources.html#lmms",
+    "title": "Ressourcen",
+    "section": "",
+    "text": "Der CMS der HU stellt LLMs zur Verfügung. Zugänge und Informationen dazu finden sich unter diesem Link.\n\n\n\nDer ASR-Service kann, nach Anmeldung, hier genutzt werden.\n\nviele Sprachen\nTextgrid output ist möglich\nunterschiedliche ASR databases zur Auswahl (z. B. Frauenhofer)"
+  },
+  {
+    "objectID": "notes/resources.html#interessante-ki-tools",
+    "href": "notes/resources.html#interessante-ki-tools",
+    "title": "Ressourcen",
+    "section": "",
+    "text": "NotebookLM ist ein KI-gestütztes Notiztool von Google, hier erreichar. Anwendungen:\n\nZusammenfassungen von hochgeladenen Dokumenten\nGeneriert FAQs\nAudio-Feature: Erstellt Podcasts aus Notizen und Dokumenten. (z. B. publizierte Studien - kann ganz lustig sein)\nkann auch Zitate erstellen\n\nAchtung: Aus datenschutsrechtlichen Gründen sollte man nur bereits publizierte Daten/Artikel hochladen. Das Tool ist auch fehleranfällig.\nBeispiel: Podcast zur Granitus-Studie (Wesolek et al. 2024)\n\n\nYour browser does not support the audio element."
+  },
+  {
+    "objectID": "notes/reports.html",
+    "href": "notes/reports.html",
+    "title": "Berichte",
+    "section": "",
+    "text": "November 2024 - 13:00 Uhr DOR Raum 1401 & online\n\n\nBesprechung der Orga\nBesprechung möglicher Themen: vor allem praxisorientierte Arbeit mit verschiedenen LLMs und Tools, informeller Austausch, aber auch Texte lesen und Forschung diskutieren\nWie können wir unsere Erkenntnisse, Fragestellungen und Ressourcen am besten festhalten? Über Moodle? Oder eine Website?: Sarah setzt Website über Quarto und Git auf und erstellt ein README file, so dass alle an der Website mitwirken können. Wenn jemand kein Interesse daran hat, kann sie/er Infos an Sarah schicken und sie baut es ein.\nWebsite muss nicht publik gemacht werden\nWir möchten auch ein Wiki aufsetzten\nErste Diskussion zu nützlichen Tools und Ressourcen (auf Website vermerkt)\nHaben wir die Möglichkeit einen Artikel in Interspeech zu publizieren? Mögliche Fragestellung: Wie geht Whisper mit dem genderneutralen Suffix um?\n\n\n\n\n\nNovember 2024 - 13:00 Uhr\n\nZum Treffen werden zwei Texte gelesen:\n\nHey ASR System! Why aren’t you more inclusive? von Ngueajio & Washington (2022) - Link\nChallenges of German Speech Recognition: A Study on Multi-ethnolectal Speech Among Adolescents von Schubert, Duran & Siegert (2024) - Link"
+  },
+  {
+    "objectID": "notes/reports.html#meeting-1",
+    "href": "notes/reports.html#meeting-1",
+    "title": "Berichte",
+    "section": "",
+    "text": "November 2024 - 13:00 Uhr DOR Raum 1401 & online\n\n\nBesprechung der Orga\nBesprechung möglicher Themen: vor allem praxisorientierte Arbeit mit verschiedenen LLMs und Tools, informeller Austausch, aber auch Texte lesen und Forschung diskutieren\nWie können wir unsere Erkenntnisse, Fragestellungen und Ressourcen am besten festhalten? Über Moodle? Oder eine Website?: Sarah setzt Website über Quarto und Git auf und erstellt ein README file, so dass alle an der Website mitwirken können. Wenn jemand kein Interesse daran hat, kann sie/er Infos an Sarah schicken und sie baut es ein.\nWebsite muss nicht publik gemacht werden\nWir möchten auch ein Wiki aufsetzten\nErste Diskussion zu nützlichen Tools und Ressourcen (auf Website vermerkt)\nHaben wir die Möglichkeit einen Artikel in Interspeech zu publizieren? Mögliche Fragestellung: Wie geht Whisper mit dem genderneutralen Suffix um?"
+  },
+  {
+    "objectID": "notes/reports.html#meeting-2",
+    "href": "notes/reports.html#meeting-2",
+    "title": "Berichte",
+    "section": "",
+    "text": "November 2024 - 13:00 Uhr\n\nZum Treffen werden zwei Texte gelesen:\n\nHey ASR System! Why aren’t you more inclusive? von Ngueajio & Washington (2022) - Link\nChallenges of German Speech Recognition: A Study on Multi-ethnolectal Speech Among Adolescents von Schubert, Duran & Siegert (2024) - Link"
+  },
+  {
+    "objectID": "notes/index.html",
+    "href": "notes/index.html",
+    "title": "Übersicht",
+    "section": "",
+    "text": "Wir sind eine Arbeitsgruppe von Phonetikern, die sich für die Anwendung von Künstlicher Intelligenz (KI) in der Forschung begeistern.\n[Option: Namen und Links der Mitglieder ergänzen?]\n\n\n\n\nalle 3 Wochen, jeweils für 1-2 Stunden, je nach Vereinbarung: montags zwischen 10:00 und 13:00 Uhr oder mittwochs zwischen 12 und 14 Uhr\nhybrid: Zoom und Institut für Deutsche Sprache und Linguistik der HU, DOR24\n\n\n\n\n\n\nWir diskutieren und erproben Anwendungsmöglichkeiten von Large Language Models (LLMs) für unsere Forschung. Ein Fokus liegt auf dem Austausch über potenzielle Hilfsmittel, die auf KI-gestützten Methoden, vor allem auf der automatischen Sprachverarbeitung (ASR) basieren. Unsere Zusammenstellung praktischer Tools finden sich hier.\n\n\n\nWie kann automatische Sprachverarbeitung (ASR) zur Annotation von Korpora genutzt werden?\nWie lassen sich Korpusdokumentationen und Annotationsrichtlinien mithilfe von LLMs erstellen?\nWelche Tools sind besonders nützlich für unsere Forschungsfragen?\nWelche datenschutzrechtlichen Vorgaben müssen wir beachten?\nWie effektiv ist WHISPER bei der Annotation unterschiedlicher Datensätze (z. B. Füllpartikel, soziale/regionale Sprachvariationen, genderneutrales Suffix)?\nWie kann (phonetische) Sprachvariation als Trainingsmaterial für LLMs genutzt werden?\n\n\n\n\n\nEin weiteres Ziel unserer Arbeitsgruppe ist es, linguistische Fragestellungen rund um LLMs und ASR-Modelle zu erforschen. Besonders interessiert uns die Frage, wie inklusiv aktuelle Modelle sind. Darüber hinaus möchten wir uns grundlegendes Wissen über ASR aneignen. Links und Notizen zur Literatur findet sich hier\n\n\n\nWie gehen die Sprachmodelle mit Sprecher:innenvariation um (z. B. Gender, Alter, L2-Akzente, Soziolekte, multilinguale Sprachdaten)?\nWie können Sprachmodelle gezielt auf Diversität hin optimiert werden?"
+  },
+  {
+    "objectID": "notes/index.html#wer-sind-wir",
+    "href": "notes/index.html#wer-sind-wir",
+    "title": "Übersicht",
+    "section": "",
+    "text": "Wir sind eine Arbeitsgruppe von Phonetikern, die sich für die Anwendung von Künstlicher Intelligenz (KI) in der Forschung begeistern.\n[Option: Namen und Links der Mitglieder ergänzen?]"
+  },
+  {
+    "objectID": "notes/index.html#wannwo-treffen-wir-uns",
+    "href": "notes/index.html#wannwo-treffen-wir-uns",
+    "title": "Übersicht",
+    "section": "",
+    "text": "alle 3 Wochen, jeweils für 1-2 Stunden, je nach Vereinbarung: montags zwischen 10:00 und 13:00 Uhr oder mittwochs zwischen 12 und 14 Uhr\nhybrid: Zoom und Institut für Deutsche Sprache und Linguistik der HU, DOR24"
+  },
+  {
+    "objectID": "notes/index.html#ziele",
+    "href": "notes/index.html#ziele",
+    "title": "Übersicht",
+    "section": "",
+    "text": "Wir diskutieren und erproben Anwendungsmöglichkeiten von Large Language Models (LLMs) für unsere Forschung. Ein Fokus liegt auf dem Austausch über potenzielle Hilfsmittel, die auf KI-gestützten Methoden, vor allem auf der automatischen Sprachverarbeitung (ASR) basieren. Unsere Zusammenstellung praktischer Tools finden sich hier.\n\n\n\nWie kann automatische Sprachverarbeitung (ASR) zur Annotation von Korpora genutzt werden?\nWie lassen sich Korpusdokumentationen und Annotationsrichtlinien mithilfe von LLMs erstellen?\nWelche Tools sind besonders nützlich für unsere Forschungsfragen?\nWelche datenschutzrechtlichen Vorgaben müssen wir beachten?\nWie effektiv ist WHISPER bei der Annotation unterschiedlicher Datensätze (z. B. Füllpartikel, soziale/regionale Sprachvariationen, genderneutrales Suffix)?\nWie kann (phonetische) Sprachvariation als Trainingsmaterial für LLMs genutzt werden?\n\n\n\n\n\nEin weiteres Ziel unserer Arbeitsgruppe ist es, linguistische Fragestellungen rund um LLMs und ASR-Modelle zu erforschen. Besonders interessiert uns die Frage, wie inklusiv aktuelle Modelle sind. Darüber hinaus möchten wir uns grundlegendes Wissen über ASR aneignen. Links und Notizen zur Literatur findet sich hier\n\n\n\nWie gehen die Sprachmodelle mit Sprecher:innenvariation um (z. B. Gender, Alter, L2-Akzente, Soziolekte, multilinguale Sprachdaten)?\nWie können Sprachmodelle gezielt auf Diversität hin optimiert werden?"
+  }
+]
