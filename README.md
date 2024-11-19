@@ -32,16 +32,18 @@ oder einfach, wie ich, mit [GitDesktop](https://desktop.github.com/download/) ar
 Öffne nun den den Ordner *_site* im Odner *website*, und klicke auf die Datei *index.html*, um die Website lokal anzusehen.
 
 ---
+
 ## Änderungen vornehmen
 Um Änderungen vorzunehmen, öffne den Unterordner *notes* im Order *website*. Dort finden sich drei .qmd-Dokumente, die frei bearbeitet werden können/sollen.
 1. *index.qmd* - für die Übersicht
 2. *resources.qmd* - für die Ressourcen
 3. *reports.qmd* - für die Meeting Berichte
 
-Wenn du Änderungen vornimmst, speichere das jeweilige file mit cmd+s und gehe zur R-Studio Konsole, um es wieder zu rendern.
+4. Nachdem du Änderungen vornimmst, speichere das jeweilige *.qmd*-File mit cmd+s und gehe zur R-Studio Konsole, um es wieder zu rendern.
    ```bash
    quarto render
 
-Du kannst nun wieder die Datei *index.html* öffnen, um die Website lokal anzusehen.
 
+Öffne nun den den Ordner *_site* im Odner *website*, und klicke auf die Datei *index.html*, um die Website lokal anzusehen.
 Wenn Du fertig bist, committe und pushe die Änderungen in das GitHub-Repository.
+
