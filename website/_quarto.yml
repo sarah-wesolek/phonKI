@@ -5,7 +5,7 @@ website:
   title: "PhonKI"
   navbar:
     left:
-      - text: "Home"
+      - text: "Übersicht"
         href: notes/index.qmd
       - text: "Ressourcen"
         href: notes/resources.qmd
